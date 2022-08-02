@@ -1,0 +1,9 @@
+
+<p></p> criar um parágrafo
+<a href=""></a> colocar um link
+<strong></strong> destcar texto com negrito
+<em></em> destcar texto com itálico
+
+
+
+<!DOCTYPE html> dizer para o navegador que é uma página em html
