@@ -1,2 +1,2 @@
 nome=input('Qual o seu nome?')
-print('Olá {}, prazer em te conhecer!'.format(nome))
+print('Olá {}, seja bem vindo!'.format(nome))
