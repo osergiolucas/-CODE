@@ -7,3 +7,4 @@
 
 
 <!DOCTYPE html> dizer para o navegador que é uma página em html
+<!> completa tudo para inciar pagima html
